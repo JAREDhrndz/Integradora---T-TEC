@@ -1,2 +1,2 @@
-# Integradora---T-TEC
+# Integradora-TOEC
 Integradora - TÓTEC
